@@ -1,5 +1,5 @@
 # better-lstm
-An maxed out LSTM trained on a lot of publicly available data to predict stock prices.
+A maxed out LSTM trained on a lot of publicly available data to predict stock prices.
 By alot we mean every piece of data relevant and useful for the training of an LSTM model, including text for sentiment analysis
 
 Skills to learn:
