@@ -18,7 +18,7 @@ Features
 
 
 API Integration for constant flow of data:
-- Set up cron job for fetching and updating of data from API. 
+- Set up cron job for fetching and updating of data from yahoo finance API. (or other data sources needed)
 
 
 Software Engineering features:
