@@ -12,7 +12,7 @@ EDA:
 Features
 - Add more features like Open, high and low prices
 - Normalise features instead of using standardisation
-- Integrate a news sentiment analysis into the model.
+- Train a financial news sentiment analysis neural network.
 - Simple Moving Average
 - Interest Rates: Changes in interest rates can influence stock prices.
 - Economic Indicators: Data like GDP growth, unemployment rates, and inflation can impact market conditions.
